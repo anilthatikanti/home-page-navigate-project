@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+
+.displayCard {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  width: 100%;
+}
+.homeLogo {
+  height: 30vh;
+}
+.imageName {
+  color: #551e53;
+}
